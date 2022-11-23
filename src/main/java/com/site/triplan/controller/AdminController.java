@@ -3,6 +3,7 @@ package com.site.triplan.controller;
 import com.site.triplan.service.UserService;
 import com.site.triplan.vo.UserVo;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import java.util.List;
